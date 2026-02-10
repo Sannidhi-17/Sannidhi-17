@@ -11,6 +11,11 @@ Alongside my professional role, I actively learn, experiment, and build projects
 Interests: ML, DL, NLP, CV, GenAI, LLMs, MLOps
 Currently: Building production-grade AI projects and open to full-time roles and collaborations in AI/ML or Data Science.
 
+## 🌐 Portfolio
+
+Check out my AI/ML projects and work samples on my portfolio:
+
+🔗 **[sannidhi-ai-portfolio](https://sannidhi-17.github.io/sannidhi-ai-portfolio/)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sannidhi-gajiwala-146169132/)
